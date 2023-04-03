@@ -30,3 +30,5 @@
 
 /config/database.yml
 /db/schema.rb
+
+/app/views/layouts/pdf_templates
