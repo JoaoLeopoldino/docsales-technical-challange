@@ -47,7 +47,7 @@ This is a simple workflow for creating and updating PDF documents.
 ```
 
 ```javascript
-// GET /api/v1/documents/create
+// GET /api/v1/documents/list
 [
   {
     "uuid": "07616754-e3ea-4ce0-b815-f68aa681235b",
